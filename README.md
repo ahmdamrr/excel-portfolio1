@@ -2,7 +2,7 @@
 
 **Interactive Excel Dashboard & Monthly Production Report** untuk mendukung operasional administrasi di industri manufaktur.
 
-![Dashboard Preview](<img width="1387" height="827" alt="Interactive Dashboard" src="https://github.com/user-attachments/assets/dc7f33d2-3ee0-4863-a1e6-1b5a67a33bd0" />)  
+![Dashboard Preview] <img width="1387" height="827" alt="Interactive Dashboard" src="https://github.com/user-attachments/assets/dc7f33d2-3ee0-4863-a1e6-1b5a67a33bd0" />
 *(Ganti dengan nama file screenshot yang kamu upload)*
 
 ## Deskripsi Project
