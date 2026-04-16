@@ -42,7 +42,7 @@ Proyek ini menyajikan dashboard interaktif dan laporan bulanan yang printable un
 
 ## Cara Menggunakan
 
-1. Buka file `Manufacturing_Production_Operations_Dashboard.xlsx`
+1. Buka file `3_data_file_dashboard.xlsx`
 2. Pada sheet **Dashboard**:
    - Gunakan **Slicer** di bagian atas untuk memfilter berdasarkan bulan, jenis produk, atau shift.
    - Semua chart dan tabel akan berubah secara otomatis.
