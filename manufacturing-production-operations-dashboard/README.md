@@ -66,5 +66,5 @@ Saya siap mendiskusikan bagaimana saya dapat mendukung tim administrasi operasio
 
 ---
 
-📧 [Email kamu]  
-🔗 [LinkedIn kamu] (opsional)
+📧 [ahmadamirhmz@gmail.com]  
+🔗 [linkedin.com/ahmdamir]
